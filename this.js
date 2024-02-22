@@ -25,4 +25,4 @@ const person = {
 console.log(person.prop); // window object
 
 console.log(person.getName()); // person + Tushar
-console.log(person.getNameArrow());
+console.log(person.getNameArrow()); // WINDOW + undefined
